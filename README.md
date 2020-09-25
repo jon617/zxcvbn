@@ -3,7 +3,7 @@ Command-line implementation of Dropbox's zxcvbn library
 
 Written in Perl.  You need Perl installed.
 
-Make sure you have CPAN installed.  On a Mac or Ubuntu, simply type `cpan` to see a nice long paragraph about what CPAN is and how to install it.  Type "yes" and hit return.
+Have CPAN installed on your computer, which is Perl's module installer.  On a Mac or Ubuntu, simply type `cpan` to see a nice long paragraph about what CPAN is and how to install it.  Type "yes" and hit return.  If you see a `cpan>` prompt, then CPAN is installed and CTRL-C out of it.
 
 Then, to install the Perl zxcvbn library via CPAN,
 ```
