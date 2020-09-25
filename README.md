@@ -10,7 +10,7 @@ Then, to install the Perl zxcvbn library via CPAN,
 sudo perl -MCPAN -e 'CPAN::Shell->force( qw( install Data::Password::zxcvbn ))'
 ```
 
-# How to run command-line zxcvbn
+## How to run command-line zxcvbn
 
 1. Copy the contents of my `zxcvbn` script into your `~/bin` directory.
 2. `chmod 755 ~/bin/zxcvbn` on the command-line to make it executable.
